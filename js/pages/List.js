@@ -118,7 +118,7 @@ export default {
                     </template>
                      <h3>> How to Submit Records</h3>
                     <p>
-                        Join our discord server, and  use /record submit
+                        Join our discord server, and in the rank channel, send the verification.
                     </p>
                     <h3>> Submission Requirements</h3>
                     <p>
